@@ -1,0 +1,1 @@
+Copy your SearchToolkit scripts (https://github.com/CNIC-Proteomics/SearchToolkit)into this folder.

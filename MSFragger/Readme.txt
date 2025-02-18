@@ -1,0 +1,1 @@
+Copy your MSFragger installation here. Make sure that MSFragger is named "MSFragger.jar" in this directory.

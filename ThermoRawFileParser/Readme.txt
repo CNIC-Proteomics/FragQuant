@@ -1,0 +1,1 @@
+Copy your ThermoRawFileParser release (https://github.com/compomics/ThermoRawFileParser)into this folder.
